@@ -10,9 +10,9 @@ namespace ConsoleApp13
             Console.WriteLine(user1.GetDetails());
             User user2 = new User("Namiq", "Mamedov", "8KNQW2", Month.October);
             Console.WriteLine(user2.GetDetails());            
-            User user3 = new User("Resad", "Ibrahimov, "42K3", Month.February);
+            User user3 = new User("Resad", "Ibrahimov", "4LSJ", Month.February);
             Console.WriteLine(user3.GetDetails());
-            User user4 = new User("Aqil", "Huseynov", "DK3F", Month.May);
+            User user4 = new User("Aqil", "Huseynov", "DK3FD", Month.May);
             Console.WriteLine(user4.GetDetails());
             User user5 = new User("Vaqif", "Aliyev", "30J1", Month.July);
             Console.WriteLine(user5.GetDetails());                      
