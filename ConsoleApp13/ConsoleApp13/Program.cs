@@ -16,11 +16,7 @@ namespace ConsoleApp13
             Console.WriteLine(user4.GetDetails());
             User user5 = new User("Vaqif", "Aliyev", "30J1", Month.July);
             Console.WriteLine(user5.GetDetails());                      
-                                  
-                                  
-                                  
-                                  
-                        
+                                                                                        
         }
 
        
