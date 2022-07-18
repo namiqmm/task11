@@ -1,0 +1,5 @@
+C:\Users\namigmm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\namigmm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namigmm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\namigmm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\namigmm\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
